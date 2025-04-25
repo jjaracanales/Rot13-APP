@@ -18,8 +18,5 @@ npm start
 
 3. Abre tu navegador en `http://localhost:3000`.
 
-## Deploy
-
-Puedes subir esta app a Vercel, Netlify o cualquier servicio que soporte React.
 
 ¡Listo!
