@@ -21,7 +21,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-black text-white flex items-center justify-center px-4">
       <div className="max-w-xl w-full space-y-6">
-        <h1 className="text-4xl font-bold text-center text-lime-400">ROT13 Encoder by José Jara Canales</h1>
+        <h1 className="text-4xl font-bold text-center text-lime-400">ROT13 Encoder by JJC</h1>
     		<h2 className="text-4xl text-center text-lime-400">un cifrado que rota las letras del alfabeto 13 posiciones</h2>
 
         <textarea
